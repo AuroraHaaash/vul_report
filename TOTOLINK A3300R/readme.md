@@ -5,9 +5,12 @@
 ## Product Information
 
 Product: TOTOLINK A3300R
-Firmware Version: V17.0.0cu.557_B20221024
-Manufacturer's website information：https://www.totolink.net/
-Firmware download address ：https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/241/ids/36.html
+
+Firmware Version: V17.0.0cu.557_B20221024 
+
+Manufacturer's website information：https://www.totolink.net/ 
+
+Firmware download address ：https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/241/ids/36.html 
 
 
 
