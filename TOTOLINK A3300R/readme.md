@@ -1,4 +1,4 @@
-# TOTOLINK A3300R V17.0.0cu.557_B20221024 Command Injection
+# TOTOLINK A3300R V17.0.0cu.557_B20221024 Incorrect Access Control
 
 
 
