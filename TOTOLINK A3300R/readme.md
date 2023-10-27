@@ -60,7 +60,9 @@ Check the result
 
 ![7](images/7.png)
 
-Login password can be changed at another page only if entering the right original one
+Login password can also be changed at another page regularly when entering the correct original one. 
+
+So after the steps above, the victim can only change the password by the one changed by the Attacker.
 
 ![8](images/8.png)
 
