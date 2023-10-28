@@ -32,7 +32,7 @@ TOTOLINK A3300R V17.0.0cu.557_B20221024 is vulnerable to Incorrect Access Contro
 
 ### POC
 
-Visit /wizard.html directly
+Visit /wizard.html or /phone/wizard.html directly
 
 
 
@@ -48,13 +48,25 @@ Visit /wizard.html directly
 
 Reset the passwords & Submit
 
- ![3](images/3.png)
+![3](images/3.png)
 
 ![4](images/4.png)
 
 ![5](images/5.png)
 
 ![6](images/6.png)
+
+/phone/wizard.html can work in a similar way
+
+![12](images/12.png)
+
+![13](images/13.png)
+
+![14](images/14.png)
+
+![15](images/15.png)
+
+![16](images/16.png)
 
 Check the result
 
